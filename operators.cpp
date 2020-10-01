@@ -10,7 +10,7 @@ int tax_percent;
 void solve(double meal_cost, int tip_percent, int tax_percent) {
 
 
-};
+}
 
 int main()
     double meal_cost;
