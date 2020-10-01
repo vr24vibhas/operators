@@ -30,4 +30,4 @@ int main()
 cout<<round(meal_cost);
     
     return 0;
-};
+}
