@@ -13,6 +13,7 @@ void solve(double meal_cost, int tip_percent, int tax_percent) {
 }
 
 int main()
+{
     double meal_cost;
     cin >> meal_cost;
     cin.ignore(numeric_limits<streamsize>::max(), '\n');
